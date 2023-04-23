@@ -3,7 +3,7 @@
 "npm init -y"
 
 #Before proceeding to create the sign-up form, the following dependencies must be succesfully installed on your system.
-Check and install #express by using the following command.
+Check and install express by using the following command.
 Express is used to set middlewares to respond to HTTP requests:
 "npm install express"
 
